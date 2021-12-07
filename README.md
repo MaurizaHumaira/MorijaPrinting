@@ -1,4 +1,4 @@
-# MugPrinter
+# Morija Printing
 Repo ini dibuat untuk memenuhi UAS Praktikum Arsitektur Perangkat Lunak. Jurusan Informatika, Universitas Syiah Kuala. 2021  
 Topik yang diambil terkait "MUG".  
 
